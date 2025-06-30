@@ -4,23 +4,6 @@
     box-sizing: border-box;
 }
 
-.header-box {
-    display: block;
-    border: 2px;
-    margin: auto;
-}
-
-.head {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30px;
-    color: #79001afd
-}
-
-.content {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-}
-
 body {
     height: 100vh;
     display: flex;
